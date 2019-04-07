@@ -1,0 +1,2 @@
+# kubernetesproject
+with all resources
